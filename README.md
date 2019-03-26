@@ -1,4 +1,4 @@
-# Policy engine [![Build Status](https://travis-ci.com/deptofdefense/policyengine.svg?token=TqmkT2pupUgixzTqM9vR&branch=master)](https://travis-ci.com/deptofdefense/policyengine)
+# Policy engine [![Build Status](https://travis-ci.com/deptofdefense/policyengine.svg?branch=master)](https://travis-ci.com/deptofdefense/policyengine)
 
 
 Policy Engine is a authentication/authorization (authx) service that is designed 
