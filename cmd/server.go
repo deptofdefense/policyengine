@@ -50,7 +50,7 @@ func init() {
 	serve.Flags().StringVarP(&addr, "addr", "a", "", "address to run rules engine on (default public)")
 	serve.Flags().StringVarP(&port, "port", "p", "8080", "port to run rules engine on")
 
-	serve.MarkFlagRequired("opa")
+	serve.MarkFlagRequired("opa-endpoint")
 
 	if SSO {
 		serve.MarkFlagRequired("vouch-sso-endpoint")
